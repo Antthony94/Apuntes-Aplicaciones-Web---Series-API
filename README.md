@@ -8,7 +8,7 @@
 > * ➡️ **Qué es lo siguiente que debes hacer**
 >
 > Léela como si el profesor estuviera a tu lado explicándote el ejercicio.
-
+> **NOTA** Hay un archivo comprimido en ZIP que es un audio explicando una vision general para este ejericio.
 ---
 
 ## 🧠 0. Visión Global: ¿Qué estamos construyendo?
